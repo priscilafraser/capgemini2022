@@ -12,7 +12,7 @@ Desafio respondido em Python com menor uso possível de bibliotecas que facilita
 
 *A mediana de uma lista de números é basicamente o elemento que se encontra no meio da lista após a ordenação. Dada uma lista de números com um número ímpar de elementos, desenvolva um algoritmo que encontre a mediana.*
 
-Nesta questão, 
+Nesta questão, foi feito um algoritmo simples do cálculo da mediana. Com os dados de entrada (lista) sendo fornecidos pelo usuário.
 
 ## Questão 2
 
