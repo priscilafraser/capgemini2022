@@ -12,11 +12,13 @@ Desafio respondido em Python com menor uso possível de bibliotecas que facilita
 
 *A mediana de uma lista de números é basicamente o elemento que se encontra no meio da lista após a ordenação. Dada uma lista de números com um número ímpar de elementos, desenvolva um algoritmo que encontre a mediana.*
 
-Nesta questão, foi feito um algoritmo simples do cálculo da mediana. Com os dados de entrada (lista) sendo fornecidos pelo usuário.
+Aqui, foi feito um algoritmo simples do cálculo da mediana. Com os dados de entrada (lista) sendo fornecidos pelo usuário.
 
 ## Questão 2
 
 *Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que determine o número de elementos pares do vetor que tem uma diferença igual ao valor de x.*
+
+Nesta questão, foi feito um algoritmo em que foi duplicada a lista fornecida pelo usuário, onde pode-se fazer o cálculo da diferença entre os elementos. A diferença entre os elementos também é fornecida pelo usuário, dessa forma, aparecem todos os pares que obtiveram este valor. Como saída tem-se a quantidade de pares com números não repetidos.
 
 ## Questão 3
 
