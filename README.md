@@ -24,12 +24,11 @@ Nesta questão, foi feito um algoritmo em que foi duplicada a lista fornecida pe
 
 *Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
 
-                     <=linha<=coluna<=
+                raiz(T)<=linha<=coluna<=raiz(T)
 
 Considere T, como o tamanho do texto.
 Se certifique de que linhas x colunas >= .
 Se múltiplos grids satisfazem as condições, escolha aquele com a menor área.
 Escreva um algoritmo que ao receber uma string s, mostre a mensagem encriptada de acordo com as regras descritas.*
 
-
-
+Nesta questão foi feito a retirada de espaços, o cálculo da raiz quadrada da quantidade de caracteres, do grid e o primeiro fatiamento de acordo com este grid.
